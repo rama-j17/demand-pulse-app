@@ -2,4 +2,5 @@ pandas
 numpy
 matplotlib
 streamlit
+plotly
 prophet
